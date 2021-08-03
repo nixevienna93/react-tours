@@ -3,7 +3,7 @@ import Tour from './Tour';
 const Tours = ({tours, removeTour}) => {
   return <section>
     <div className='title'>
-      <h2>Our Tours</h2>
+      <h2>Our Tours 123123123</h2>
       <div className='underline'></div>
     </div>
 
